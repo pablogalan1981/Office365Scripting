@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This script that removes a validated domain from all the objects of an Ofice 365 tenant and after that 
+    This script removes a validated domain from all the objects of an Ofice 365 tenant and after that 
     tries to delete the domain from the tenant.
 
 .DESCRIPTION
