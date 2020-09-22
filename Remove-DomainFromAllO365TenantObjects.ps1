@@ -12,7 +12,7 @@
         - Remove the EmailAddresses with the domain to delete from all Exchange Online recipients.
 	
 .NOTES
-	Author		Pablo Galan Sabugo <pablogalan1981@gmail.com>
+	Author		Pablo Galan Sabugo <pablogalanscripts@gmail.com> 
 	Date		Sep/2020
 	Disclaimer: 	This script is provided 'AS IS'. No warrantee is provided either expressed or implied. 
         Version: 1.1
